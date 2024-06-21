@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodrigorg24&label=Profile%20views&color=0e75b6&style=flat" alt="rodrigorg24" /> </p>
 
-- 🌱 I’m currently studying *software engineering and back-end development*
+- 🌱 I’m currently studying *software engineering and full-stack development*
 
 - 📫 How to reach me *rodrigo.rym.24@gmail.com*
 
